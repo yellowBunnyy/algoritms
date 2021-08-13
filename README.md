@@ -1,0 +1,2 @@
+# algoritms
+AI algoritm
